@@ -1,0 +1,5 @@
+c:\users\muhammad awais\documents\visual studio 2015\Projects\Practice\Practice\bin\Debug\Practice.exe.config
+c:\users\muhammad awais\documents\visual studio 2015\Projects\Practice\Practice\bin\Debug\Practice.exe
+c:\users\muhammad awais\documents\visual studio 2015\Projects\Practice\Practice\bin\Debug\Practice.pdb
+c:\users\muhammad awais\documents\visual studio 2015\Projects\Practice\Practice\obj\Debug\Practice.exe
+c:\users\muhammad awais\documents\visual studio 2015\Projects\Practice\Practice\obj\Debug\Practice.pdb
